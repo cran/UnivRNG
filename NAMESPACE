@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom("stats", "pgamma", "rbeta", "rbinom", "rchisq", "rexp",
+             "rnorm", "rt", "runif", "var")
