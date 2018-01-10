@@ -1,4 +1,4 @@
-deb4502fd2e7527319b9054233ec75f8 *DESCRIPTION
+17b49ca85b2f3c8e3c6f811db7e8f390 *DESCRIPTION
 e22d7142e9aeed84403fe53a0f029044 *NAMESPACE
 1cb7f93b2dc7373025b4d59719c47243 *R/draw.beta.alphabeta.less.than.one.R
 b94d5c1592a144812e8849902a03ae34 *R/draw.beta.binomial.R
@@ -17,7 +17,7 @@ f4280869346e452f576a1f88634c3867 *R/draw.t.R
 f058657a84f86f688343a5c9e7db5716 *R/draw.von.mises.R
 2de0011625e04cad95e727c988a1677f *R/draw.weibull.R
 95030ce51901d95ee263f31307d70c98 *R/draw.zeta.R
-2e69620e00aaf19fd5f53ff7cb6ed0e9 *man/UnivRNG-package.Rd
+dfd41dc0f23805c12c2b71c8f67625c7 *man/UnivRNG-package.Rd
 1c5257edfffbe3e0d76f0020273e00b4 *man/draw.beta.alphabeta.less.than.one.Rd
 d464e2b6ca34df0b93d95f6054760a2a *man/draw.beta.binomial.Rd
 60228e4402df56b9f4a13982fee29d35 *man/draw.gamma.alpha.greater.than.one.Rd
